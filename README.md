@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uwingabirejoselyne
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning PHP, MySql, HTML, and CSS
+- 🌱 I’m currently learning PHP, MySql, HTML,css and Python
 - 💞️ I’m looking to collaborate on any project related to web development
 - 📫 How to reach me uwingajoselyne@gmail.com or +250 785 991 851
 
